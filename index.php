@@ -5,10 +5,11 @@
 		<div class="form-group col-md-3">
 			Letter Grade
 		</div>
-		<div class="form-gropu col-md-3">
+		<div class="form-group col-md-3">
 			Units
 		</div>
-		<button type="submit">Submit</button>
+		<div class="col-md-3 col-md-offset-9">
+			<button type="submit">Submit</button>
 		</div>
 	</form>
 
