@@ -8,14 +8,13 @@
 			<div class="form-group col-md-3">
 				Units
 			</div>
-			<div class="col-md-3 col-md-offset-9">
-				<button type="submit">Submit</button>
-			</div>
+			<br>
+			<button type="submit">Submit</button>
 		</form>
 
 		<br>
 
-		<div class="col-md-1 col-mid-offset-3">
+		<div class="col-md-1 col-md-offset-3">
 			<button id="add">+</button>
 		</div>
 	</div>
