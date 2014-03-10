@@ -34,8 +34,7 @@
 			$(".input").each(function(){
 				var value = (+$(this).find(".letter").find(".letter-value").val());
 				var unitValue = (+$(this).find(".units").find(".unit-value").val());
-				gradePoints = value*unitValue;
-				console.log(gradePoints);
+				gradePoints = gradePoints + (value*unitValue);
 			});
 		}
 
